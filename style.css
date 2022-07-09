@@ -1,0 +1,151 @@
+
+#title h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 150px;
+  position: relative;
+  margin-top: 250px;
+  font-family: 'Playfair Display', serif;
+
+
+}
+
+#tyo h1 {
+  color: black;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Playfair Display', serif;
+
+}
+
+#tyo {
+  padding: 30% 5% 20% 5%;
+
+}
+
+@media all and (max-width: 360px) {
+  #title h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    margin-top: 250px;
+    mix-blend-mode: difference;
+
+  }
+
+  #tyo {
+    padding: 105% 5% 60% 5%;
+  }
+
+  #tyo h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+  }
+
+  #hello {
+    font-size: 30px;
+
+  }
+
+  .work {
+    color: #fff;
+
+
+  }
+
+
+}
+
+@media all and (min-width: 768px) and (max-width: 992px) {
+  #title h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 90px;
+    position: relative;
+    margin-top: 250px;
+    mix-blend-mode: difference;
+
+  }
+
+  #tyo {
+    padding: 70% 5% 40% 5%;
+  }
+
+  #tyo h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+  }
+
+  #hello {
+    font-size: 30px;
+
+  }
+
+  .work {
+    color: #fff;
+
+
+  }
+
+}
+
+
+
+
+
+#myVideo {
+  z-index: -1;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+
+
+}
+
+#myvideo2 {
+  z-index: -1;
+  position: absolute;
+  min-width: 90%;
+  min-height: 90%;
+
+
+
+
+
+}
+
+.work {
+  color: #fff;
+
+}
+
+
+
+
+
+.nani a {
+  font-family: 'Playfair Display', serif;
+}
+
+.nani .navbar-brand {
+  font-size: 50px;
+  font-family: 'The Nautigal', cursive;
+
+}
+
+.navbar {
+  margin-bottom: 5px;
+}
+
+.blue :hover {
+  box-shadow: 1px 1px 1px 1px;
+}
+
+.container-fluid {
+  margin: auto 15%;
+}
