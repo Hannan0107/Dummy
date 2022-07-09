@@ -23,6 +23,65 @@
 
 }
 
+
+
+
+
+#myVideo {
+  z-index: -1;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+
+
+}
+
+#myvideo2 {
+  z-index: -1;
+  position: absolute;
+  min-width: 90%;
+  min-height: 90%;
+
+
+
+
+
+}
+
+.work {
+  color: #fff;
+
+}
+
+
+
+
+
+.nani a {
+  font-family: 'Playfair Display', serif;
+}
+
+.nani .navbar-brand {
+  font-size: 50px;
+  font-family: 'The Nautigal', cursive;
+
+}
+
+.navbar {
+  margin-bottom: 5px;
+}
+
+.blue :hover {
+  box-shadow: 1px 1px 1px 1px;
+}
+
+.container-fluid {
+  margin: auto 15%;
+}
+
+
 @media all and (max-width: 360px) {
   #title h1 {
     color: #fff;
@@ -92,60 +151,3 @@
 
 }
 
-
-
-
-
-#myVideo {
-  z-index: -1;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-
-
-}
-
-#myvideo2 {
-  z-index: -1;
-  position: absolute;
-  min-width: 90%;
-  min-height: 90%;
-
-
-
-
-
-}
-
-.work {
-  color: #fff;
-
-}
-
-
-
-
-
-.nani a {
-  font-family: 'Playfair Display', serif;
-}
-
-.nani .navbar-brand {
-  font-size: 50px;
-  font-family: 'The Nautigal', cursive;
-
-}
-
-.navbar {
-  margin-bottom: 5px;
-}
-
-.blue :hover {
-  box-shadow: 1px 1px 1px 1px;
-}
-
-.container-fluid {
-  margin: auto 15%;
-}
